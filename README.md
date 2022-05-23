@@ -20,24 +20,16 @@ Generales:
 
 • Aplicar la Ley de Ohm de manera correcta e identificar cuando es necesario el uso de potencia y energía para resolver un circuito.
 
-Especificos
+Especificos:
+
 • Aprender a diferenciar los diferentes tipos de unidades que se utilizan a la hora de realizar un cálculo y transformarlos de manera correcta si es necesario.
 
 • Identificar los diferentes tipos de resistores que existen en Electrónica y saber cuál es el uso adecuado de cada uno de estos.
 
 • Conocer el correcto uso del código de colores en resistores para poder identificar el valor de la resistencia, la tolerancia y la confiabilidad de estos.
 
-• Aprender a calcular de manera correcta la conductancia de un material para saber la habilidad de flujo de carga que este tiene.
-
-• Aplicar de manera correcta la ley de ohm en un circuito resistivo y así poder identificar los valores correctos de voltaje, corriente y resistencia.
-
-• Conocer los conceptos básicos de potencia y energía para saber la relación que estas dos tiene al momento de realizar trabajo.
-
-• Aprender que sucede si un aparato tiene una mala eficiencia y las consecuencias que estas puede traer a futuro.
-
-• Identificar los tipos de resistencia que existe a la hora de resolver un circuito mediante una correcta lectura de sus gráficas.
-
 2. Marco Teorico (Resumen)
+
 Capitulo 3:
 
 ![image](https://user-images.githubusercontent.com/94025287/142240763-413a094e-6595-447e-902e-69ecfd07d9c6.png)
@@ -196,21 +188,82 @@ Mirando las lecturas del óhmetro, se concluye que la lampara 4 esta quemada.
 
 Ejercicios Capitulo 4:
 
+2. Demuestre que hay 3.6x10^6 Joules en un kilowatt-hora
 
+![image](https://user-images.githubusercontent.com/94025287/169873964-9800c4c7-d044-4562-bb86-3fbb05c86f13.png)
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![image](https://user-images.githubusercontent.com/94025287/169874036-fcb8922c-4657-4d7c-9c60-0ebbc3e21b75.png)
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+![image](https://user-images.githubusercontent.com/94025287/169874242-0e516c30-b1e3-4125-a170-68195d0dc340.png)
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+![image](https://user-images.githubusercontent.com/94025287/169874547-b9e3beaf-c8e7-43fe-8760-f7a745a17627.png)
+
+10. Convierta las siguientes cantidades en watts:
+
+![image](https://user-images.githubusercontent.com/94025287/169874966-df902a89-e06d-4227-ae2c-3a39770cc520.png)
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+![image](https://user-images.githubusercontent.com/94025287/169875056-9c9e802f-19c5-4529-9e90-d9588bf8d7f3.png)
+
+14. Convierta 5x10^6 watts-minutos en kWh.
+
+![image](https://user-images.githubusercontent.com/94025287/169875111-67f0009b-0dd2-4b85-8fe3-2f81475bc588.png)
+
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+
+![image](https://user-images.githubusercontent.com/94025287/169875162-6fcd5430-b69d-4ca4-8d9b-159f6868e885.png)
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/94025287/169875215-7de11e9f-1427-4b5d-97a2-d4e9f5026fda.png)
+
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4Ω?
+
+![image](https://user-images.githubusercontent.com/94025287/169875254-25aea68c-1b8c-4ae2-ac8a-9cb962e3cf52.png)
+
+22. Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/94025287/169875322-e8f2e6cd-b6f3-4999-9fd2-9500e5353ef1.png)
+
+24. Si un resistor tiene que transportar 2 A, de corriente y manejar 100 W de potencia, ¿de cuántos ohm debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido. 
+
+![image](https://user-images.githubusercontent.com/94025287/169875548-7cde15d3-853d-4ba3-8408-cd0e7b3b8218.png)
+
+26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+![image](https://user-images.githubusercontent.com/94025287/169875760-bd816a8d-bcf0-4bd1-996b-f046c257fad8.png)
+
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+ 
+ ![image](https://user-images.githubusercontent.com/94025287/169875879-4fa51b6c-6b66-4e09-a34c-051b6d644ae7.png)
+ 
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+![image](https://user-images.githubusercontent.com/94025287/169876066-dba5e4d6-045d-42da-ac3f-74d360c76c94.png)
+
+32. Una batería puede proporcionar un promedio de 1.5 A, de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+![image](https://user-images.githubusercontent.com/94025287/169876357-6982bba1-6901-4242-b357-a1cc43077f62.png)
+
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+![image](https://user-images.githubusercontent.com/94025287/169876400-3318b89c-fdf4-4ccc-82b6-28aac0015895.png)
+
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![image](https://user-images.githubusercontent.com/94025287/169876452-4936d8bc-ab1f-43e9-9104-5d9f96635df6.png)
 
 4. Video
 
 
 5. Conclusiones
-• Concluimos que la resistencia es un factor importante al momento de realizar cálculos electrónicos ya que está presente en todos los circuitos y debemos saber la manera correcta de calcularlo
-
-• Aprendimos que existen varias unidades de electrónica a la hora de realizar cálculos y por esto debemos saber convertirlas de una manera correcta para llegar a un resultado más apropiado.
-
-• Vimos la importancia que tiene el código de colores en resistores pequeños ya que con esto podemos saber cuál es el valor de la resistencia, la tolerancia y en algunos casos la confiabilidad que estos tiene de una manera más fácil.
-
-• Concluimos la importancia que tiene el saber realizar de manera correcta el cálculo de la conductancia de un material ya que así podemos saber la habilidad que tiene un material para permitir el flujo de carga
-
-• Conocimos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
 
 • Al realizar varios ejercicios nos dimos cuenta que entre más altos sean los watts en un dispositivo se puede obtener más energía de él por unidad tiempo de igual manera vimos que tiene una estrecha relación con la energía que es la capacidad para realizar trabajo.
 
