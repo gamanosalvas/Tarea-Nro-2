@@ -262,6 +262,7 @@ Ejercicios Capitulo 4:
 
 4. Video
 
+https://youtu.be/Mnn9wR6oj2w
 
 5. Conclusiones
 
